@@ -1,0 +1,252 @@
+{
+    "company": "Mahindra",
+    "summary": {
+        "total_articles": 30,
+        "positive": 25,
+        "negative": 1,
+        "neutral": 4,
+        "overall_sentiment": "Positive"
+    },
+    "news": [
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The article highlights Mahindra's integration of sustainability into its business strategy, indicating a commitment to responsible growth and environmental consideration.",
+            "title": "Mahindra Sustainability – Driving Responsible Growth and ...",
+            "description": "Learn how Mahindra integrates sustainability into its business strategy, from eco-friendly practices to responsible growth and lasting impact.",
+            "url": "https://www.mahindra.com/investor-relations/sustainability"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Governance",
+            "reason": "The company has a strict zero-tolerance stance toward any form of bribery or corrupt practices, prioritizing integrity over business gains, as outlined in its ABAC policy.",
+            "title": "BUSINESS RESPONSIBILITY AND SUSTAINABILITY REPORT - Mahindra",
+            "description": "The ABAC policy of Mahindra Group establishes a framework to ensure compliance with global Anti-Bribery and Anti-Corruption laws and other required practices. The Company adopts a strict zero-tolerance stance toward any form of bribery or corrupt practices, prioritizing integrity over business gains.",
+            "url": "https://www.mahindra.com/sites/default/files/2026-07/Business+Responsibility+and+Sustainability+Report+2025-26.pdf"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "The company is committed to its 'Planet Positive' strategy, integrating climate action within its operations and supply chains, which indicates a proactive approach to mitigating environmental impact.",
+            "title": "BRSR | Mahindra",
+            "description": "At Mahindra, our approach to sustainability is rooted in our purpose of \"Rise for Good,\" focusing on mitigating environmental impact and transitioning to a people-and planet-positive economy. The Mahindra Group is committed to its 'Planet Positive' strategy integrating climate action within its operations & supply chains, fostering circularity, conserving biodiversity, and importantly ...",
+            "url": "https://brsr.mahindra.com/"
+        },
+        {
+            "sentiment": "Neutral",
+            "topic": "ESG",
+            "reason": "The news article is about Mahindra & Mahindra Ltd's collection of sustainability and ESG reports, which provides information on the company's environmental, social, and governance performance over the years.",
+            "title": "Mahindra & Mahindra Ltd Sustainability Reports (2009-2025)",
+            "description": "Download Mahindra & Mahindra Ltd's complete collection of sustainability, ESG, and annual reports. Access 19 reports from 2009 to 2025. Free PDF downloads.",
+            "url": "https://www.sustainabilityreports.com/mahindra-and-mahindra"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "Mahindra Group releases its 18th Sustainability Report, indicating a long-term commitment to environmental, social, and governance practices.",
+            "title": "Mahindra Group releases 18th Sustainability Report for FY ...",
+            "description": "The Mahindra Group proudly unveils its 18th Group Sustainability Report for the financial year 2024-25 led by our Group CEO & MD, Dr. Anish Shah. The 250-page comprehensive document deep dives ...",
+            "url": "https://www.linkedin.com/posts/mahindragroup_sustainability-esg-planetpositive-activity-7372157634336178176-fDLd"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The news article discusses Mahindra's Sustainability Report, highlighting the company's commitment to a 'Planet Positive' approach, which integrates environmental responsibility with social empowerment, indicating a strong focus on ESG initiatives.",
+            "title": "Mahindra Sustainability Report 2024-25 | PDF - Scribd",
+            "description": "Mahindra & Mahindra Ltd.'s Sustainability Report 2024-25 outlines the company's commitment to sustainability, emphasizing a 'Planet Positive' approach that integrates environmental responsibility with social empowerment. The report highlights initiatives in renewable energy, electric vehicles, and waste reduction, alongside efforts to create green jobs and support education. Mahindra aims for ...",
+            "url": "https://www.scribd.com/document/944091746/Mahindra-and-Mahindra-Sustainability-Report-2025"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "The company has made progress toward its 'Planet Positive' vision, highlighting a commitment to carbon neutrality by 2040, and achieved key milestones such as a 3% reduction in energy intensity and a 27% renewable energy share.",
+            "title": "Mahindra & Mahindra Ltd 2025 Sustainability Report - Free PDF",
+            "description": "Apr 1, 2024 · Sustainability Report The report details Mahindra & Mahindra's progress toward its 'Planet Positive' vision, highlighting a commitment to carbon neutrality by 2040. Key achievements include a 3% reduction in energy intensity and reaching a 27% renewable energy share across the Group. The company launched flagship electric SUVs, the BE 6 and XEV 9e, and achieved a 91% water positivity index for ...",
+            "url": "https://www.sustainabilityreports.com/mahindra-and-mahindra/2025/sustainability-report"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The company is committed to embedding environmental, social, and governance principles into its core strategy, pursuing 'Purpose Beyond Profits' and balancing sustainability with profitability.",
+            "title": "Sustainability: Leading with Purpose | Tech Mahindra",
+            "description": "We are committed to pursuing ‘Purpose Beyond Profits’ by embedding environmental, social, and governance (ESG) principles into our core strategy while balancing sustainability and overall profitability. By combining these efforts, we’re helping ensure a healthier planet for all of us ...",
+            "url": "https://www.techmahindra.com/about-us/sustainability/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "Mahindra Group is aligning with the TCFD framework to ensure transparent reporting around climate-related disclosures, demonstrating a commitment to strengthening climate resilience.",
+            "title": "Strengthening climate resilience at Mahindra Group",
+            "description": "Mahindra Group is aligning with the Task Force on Climate-related Financial Disclosures (TCFD) framework to ensure transparent reporting around governance, strategy, risk management, and metrics.",
+            "url": "https://echo.mahindra.com/2025/october/issue-1/strengthening-climate-resilience-at-mahindra-group"
+        },
+        {
+            "sentiment": "Neutral",
+            "topic": "Climate",
+            "reason": "The news article mentions Mahindra & Mahindra Ltd's Climate Rating as 'Transitioning', indicating a neutral stance on the company's climate performance.",
+            "title": "mahindra_and_mahindra_limited - Climate Rating ...",
+            "description": "Climate Rating: Transitioning - Mahindra & Mahindra Ltd is an Indian multinational automotive manufacturing corporation that produces a wide range of vehicles, including cars, buses, tractors, and utility vehicles. It also provides financial services, such as insurance, leasing, and fleet management services.",
+            "url": "https://www.icebergdatalab.com/idl-climate-rating/d6a34580aff_mahindra_and_mahindra_limited"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "Mahindra's 'Planet Positive' strategy includes driving climate adaptation and implementing heat stress mitigation measures, demonstrating a proactive approach to addressing environmental challenges.",
+            "title": "Corporate heat adaptation and mitigation strategies - Mahindra",
+            "description": "A core pillar of Mahindra’s \"Planet Positive\" strategy is driving climate adaptation. While emission mitigation remains vital, true resilience demands a holistic approach beyond mitigation to proactively drive climate adaptation measures that address the physical risks already locked into our environment. As part of the adaptation strategy, a critical focus area is heat stress. According to ...",
+            "url": "https://www.mahindra.com/sites/default/files/2026-05/260504_Corporate+heat+adaptation+and+mitigation+strategies_whitepaper.pdf"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "Mahindra and Mahindra has disclosed 11 climate targets aimed at reducing its greenhouse gas (GHG) emissions, signaling the company's commitment to managing and lowering its carbon footprint over time.",
+            "title": "Mahindra and Mahindra - Climate Targets: Emissions Pathways ...",
+            "description": "Mahindra and Mahindra 's Climate Target Data Preview As of 2025, Mahindra and Mahindra has disclosed 11 climate targets aimed at reducing its greenhouse gas (GHG) emissions. These include 11 intensity-based targets, signaling the company's commitment to managing and lowering its carbon footprint over time. The targets span various emissions scopes and time horizons, offering insight into ...",
+            "url": "https://tracenable.com/company/mahindra-and-mahindra/climate-targets"
+        },
+        {
+            "sentiment": "Neutral",
+            "topic": "Climate",
+            "reason": "The article is a briefing on the global and Indian climate agenda, highlighting key stories and developments, but does not express a clear positive or negative sentiment towards Mahindra's actions or performance.",
+            "title": "Mahindra Echo",
+            "description": "Welcome to the third edition of our bi-monthly Climate Briefing—a curated snapshot of developments shaping the global and Indian climate agenda. Each edition highlights key stories with a focus on what’s happening and why it matters, helping you navigate the risks, opportunities, and imperatives emerging from the sustainability transition Some insights may align directly with your current ...",
+            "url": "https://echo.mahindra.com/uploads/content/Climate_Briefing_Oct_2025.pdf"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "Mahindra Lifespaces has committed to reducing emissions and achieving carbon neutrality by 2040, demonstrating a proactive approach to addressing climate change.",
+            "title": "Climate Change – Mahindra Lifespaces",
+            "description": "June 27, 2025 - It intends to encourage businesses ... targets. We, at Mahindra Lifespaces have committed to reducing our emissions as an enabler for carbon neutrality by 2040, through our targets that were approved in November ...",
+            "url": "https://www.mahindralifespaces.com/sustainability-impacts/making-sustainability-personal/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Pollution",
+            "reason": "Mahindra has set goals to make the roads of India cleaner and safer, and has a zero-tolerance policy towards pollution during vehicle recycling, indicating a commitment to reducing environmental harm.",
+            "title": "Mahindra",
+            "description": "We have set two clear goals - making the roads of India cleaner and safer and reducing India’s reliance on scrap steel imports. The company operates under the brand name ‘CERO’, which is Spanish for ‘zero’, as it has a zero-tolerance policy towards ‘pollution’ during the recycling of vehicles, untreated discharge, and unsafe and unethical procedures.",
+            "url": "https://www.mahindraaccelo.com/investor-relation/annual-report-fy23/environment.php"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "Mahindra Group's 'Planet Positive' strategy is a comprehensive approach to environmental sustainability, integrating sustainability into their business strategy and expanding their ambition to address emissions, water, and other environmental goals.",
+            "title": "MAHINDRA ROUP S USTAINABILITY AND ENVIRONMENTAL POLICY",
+            "description": "Mahindra Group Planet Positive Framework Our ‘Planet Positive’ strategy at Mahindra Group is a comprehensive approach to environmental sustainability to integrate sustainability as a core part of business strategy. We have expanded our ambition from solely focusing on emissions reduction (Carbon Neutral/Net-Zero) to embracing a comprehensive set of goals that address emissions, water ...",
+            "url": "https://www.mahindra.com/sites/default/files/2023-08/Environment-and-Sustainability-policy_0.pdf"
+        },
+        {
+            "sentiment": "Negative",
+            "topic": "Pollution",
+            "reason": "The article discusses the average gas emissions of Mahindra cars, including CO2 and other pollutants, which suggests that the company's vehicles are contributing to environmental pollution.",
+            "title": "Pollution by Mahindra. CO2 and Euro Emission Standards.",
+            "description": "Average gas emissions of Mahindra cars. Find out what pollution do your car produce. Car A Rac presents official data of carbon dioxide, HC+Nox, CO, HC and particles",
+            "url": "https://cararac.com/emissions/mahindra/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Pollution",
+            "reason": "The company organized a coastal clean-up drive to reduce marine pollution and raise awareness about its hazardous effects on marine life, which is a positive step towards environmental conservation.",
+            "title": "Mahindra Echo",
+            "description": "In line with Mahindra Group’s Planet Positive agenda, the CSR team organised a coastal clean-up drive at the Dadar Beach, Mumbai on September 13th, 2025 [from 8 am to 10 am]. 130 volunteers took part in the drive with an objective to reduce marine pollution and raise awareness about its hazardous effects on marine life.",
+            "url": "https://echo.mahindra.com/2025/september/issue-1/130-volunteers-1700kg-of-waste-1-clean-up-drive"
+        },
+        {
+            "sentiment": "Neutral",
+            "topic": "Pollution",
+            "reason": "The article reports the current Air Quality Index (AQI) of Mahindra World City, providing real-time data on air pollution levels, including PM2.5 and PM10 concentrations, which is a neutral reporting of environmental data.",
+            "title": "Mahindra World City Air Quality Index (AQI) : Real-Time Air Pollution",
+            "description": "5 days ago - Current Mahindra World City Air Quality Index (AQI) is 60 Moderate level with real-time air pollution PM2.5 (17µg/m³), PM10 (31µg/m³), Temperature (35.4°C) in Seven Pagodas, Tamil Nadu, India.",
+            "url": "https://www.aqi.in/in/dashboard/india/tamil-nadu/seven-pagodas/mahindra-world-city"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Water",
+            "reason": "Mahindra has been water-positive at the Group level since 2014, indicating a positive impact on the environment.",
+            "title": "Planet Positive | Sustainability | Mahindra Group",
+            "description": "Mahindra Group - Atrium at Mahindra Office Worli. newsroom. Press Releases. In the News.latest stories. ESG. Mahindra has been water-positive at the Group level since 2014.",
+            "url": "https://uat-mahindra.m-devsecops.com/sustainability"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Supply Chain",
+            "reason": "Mahindra's focus on sustainable supply chain management in India contributes to its ESG efforts and drives a sustainable future.",
+            "title": "Mahindra's Sustainable Supply Chain in India Drives ESG | LinkedIn",
+            "description": "Mahindra Group #MahindraSusten #MahindraRise #SupplyChainManagement #ESG #RenewableEnergy #Sustainability #SustainableFuture.",
+            "url": "https://www.linkedin.com/posts/mahindra-susten_mahindrasusten-mahindrarise-supplychainmanagement-activity-7407365789785264128-WFLe"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The article discusses Mahindra & Mahindra's holistic approach to sustainability through its ESG mantra of Planet Positive, People Positive, and Trust Positive.",
+            "title": "Mahindra & Mahindra’s 3 ESG Mantra: Planet Positive... - India CSR",
+            "description": "Mahindra & Mahindra’s ESG mantra of Planet Positive, People Positive, and Trust Positive encapsulates its holistic approach to sustainability.",
+            "url": "https://indiacsr.in/mahindra-mahindras-3-esg-mantra-planet-positive-people-positive-and-trust-positive/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "Mahindra & Mahindra is listed among the top-five firms with the strongest ESG scores, indicating a high level of environmental, social, and governance performance.",
+            "title": "Infy tops list of firms with strongest ESG scores... - Business Standard",
+            "description": "Mahindra & Mahindra (M&M), Tech Mahindra, HDFC and Adani Ports & SEZ are the other firms in the top-five, with ESG scores between 80 and 90 (A rating).",
+            "url": "https://www.business-standard.com/article/companies/infy-tops-list-of-firms-with-strongest-esg-scores-followed-by-m-m-tech-m-122032200350_1.html"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "Mahindra Lifespaces is continuously striving to improve its ESG practices and uses the GRESB benchmark report to identify areas for improvement.",
+            "title": "Manager Case Study: Mahindra Lifespaces Developers... - GRESB",
+            "description": "Mahindra Lifespaces is continuously striving to improve its ESG practices and looks to the GRESB benchmark report as a means to identify data gaps and areas for improvement.",
+            "url": "https://www.gresb.com/manager-case-study-mahindra-lifespaces-developers-limited/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The company prioritizes sustainability, social responsibility, and ethical governance practices to create a positive impact.",
+            "title": "Environmental, Social, and Governance (ESG) - Mahindra",
+            "description": "We prioritize sustainability, social responsibility & ethical governance practices to create a positive impact. Discover & learn about our dedication to Environmental, Social, and Governance (ESG) principles.",
+            "url": "https://www.mahindraaccelo.com/esg"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The company is a pioneer of sustainable urbanisation in India, which indicates a strong commitment to environmental and social responsibility.",
+            "title": "Mahindra Lifespace Developers | Sustainable Urbanisation",
+            "description": "About the Developer Mahindra Lifespace Developers Established in 1994, Mahindra Lifespace Developers Ltd. is the real estate and infrastructure development business of the USD 19.4 billion Mahindra Group, and a pioneer of sustainable urbanisation in India.",
+            "url": "https://mahindraltd.com/"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Plastic",
+            "reason": "Mahindra & Mahindra replaced 25% of conventional plastic packaging with compostable and eco-friendly alternatives in FY25, demonstrating a commitment to reducing plastic pollution.",
+            "title": "M&M celebrates World Environment Day - echo.mahindra.com",
+            "description": "World Environment Day 2025 calls for collective action to tackle plastic pollution. Sustainable Packaging and Plastic Waste Management Mahindra & Mahindra (M&M) has been leading efforts to adopt sustainable packaging solutions. In FY25, 25% of conventional plastic packaging was replaced with compostable and eco-friendly alternatives.",
+            "url": "https://echo.mahindra.com/2025/june/issue-1/mm-celebrates-world-environment-day"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "ESG",
+            "reason": "The news article discusses Mahindra's Sustainability Framework, which focuses on building enduring businesses while rejuvenating the environment and enabling stakeholders to rise, indicating a strong commitment to ESG principles.",
+            "title": "Mahindra",
+            "description": "Mahindra Sustainability Framework Building enduring businesses by rejuvenating the environment and enabling stakeholders to Rise Enabling Stakeholders to Rise Build a great place to work Foster inclusive development Make sustainability personal",
+            "url": "https://www.mahindraaccelo.com/investor-relation/annual-report-fy23/esg-approach.php"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Sustainability/ESG",
+            "reason": "The article highlights Mahindra's innovative real estate projects that combine thoughtful design, everyday comfort, and sustainable living, indicating a positive approach to environmental and social responsibility.",
+            "title": "Mahindra Housing – Innovative Real Estate Projects and Modern...",
+            "description": "Discover Mahindra real estate projects that redefine housing by combining thoughtful design, everyday comfort, and sustainable living that shape the cities of tomorrow.",
+            "url": "https://www.mahindra.com/our-business/real-estate"
+        },
+        {
+            "sentiment": "Positive",
+            "topic": "Climate",
+            "reason": "The news article highlights Mahindra's use of environmentally friendly construction equipment and methods, which can reduce the overall cost of maintenance and benefit the ecosystem.",
+            "title": "Environmentally Friendly Construction Equipment and Methods",
+            "description": "Environment-friendly equipment are not only beneficial for the eco-system, but also for the construction companies as it can reduce the overall cost of maintenance of the equipment.",
+            "url": "https://www.mahindraconstructionequipment.com/index.php?/blog/environmentally-friendly-construction-equipment-and-methods"
+        }
+    ]
+}

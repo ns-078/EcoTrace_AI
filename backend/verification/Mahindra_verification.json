@@ -1,0 +1,360 @@
+{
+    "summary": {
+        "company": "Mahindra",
+        "verified": 0,
+        "partially_verified": 4,
+        "greenwashing_flags": 0,
+        "insufficient_evidence": 9,
+        "overall_score": 15,
+        "risk_level": "High"
+    },
+    "claims": [
+        {
+            "claim": "33% of M&M's electricity is from renewable sources",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not specifically mention that 33% of Mahindra's electricity is from renewable sources. The evidence only discusses Mahindra's efforts to transition to 100% renewable energy and the services of a renewable energy verification leader, but does not provide concrete data to support the claim."
+            },
+            "evidence": [
+                {
+                    "title": "Accelerate transition to 100% renewable energy - Action Library (EN)",
+                    "description": "Mahindra Susten, the Group’s renewable energy subsidiary, addresses the challenge of decarbonizing energy-intensive operations through a vertically integrated renewable energy model combining engineering, asset development, and performance optimization.",
+                    "url": "https://www.theclimatedrive.org/action-library/accelerate-transition-to-100-renewable-energy"
+                },
+                {
+                    "title": "Homepage - Renewable Energy Verification Leader",
+                    "description": "Verify your renewable energy projects with Foton Eco. IREC, ISO certification, biomass and cogeneration labeling. Trusted partner of 100+ companies.",
+                    "url": "https://foton.eco/"
+                }
+            ]
+        },
+        {
+            "claim": "6% increase in renewable electricity generation compared to last year",
+            "category": "Energy",
+            "verification": {
+                "status": "Partially Verified",
+                "confidence": "Medium",
+                "reason": "While the provided evidence does not directly confirm Mahindra's 6% increase in renewable electricity generation, the Renewable Energy Certificate Registry of INDIA and the Electricity Maps platform offer insights into India's renewable energy landscape and tracking capabilities. However, without direct access to Mahindra's specific generation data or a clear link to the company's renewable energy production, the claim cannot be fully verified."
+            },
+            "evidence": [
+                {
+                    "title": "DCR Verification Portal | NISE - Ministry of New and ...",
+                    "description": "The portal ensures end-to-end traceability of domestically manufactured solar PV cells and modules, enabling verification of Domestic Content Requirement (DCR) compliance across all government-supported solar energy schemes.",
+                    "url": "https://solardcrportal.nise.res.in/"
+                },
+                {
+                    "title": "Renewable Energy Certificate Registry of INDIA",
+                    "description": "The Electricity Act, 2003, the policies framed under the Act, as also the National Action Plan on Climate Change (NAPCC) provide for a roadmap for increasing the share of renewable in the total generation capacity in the country.However, Renewable Energy (RE) sources are not evenly spread across different parts of the country. Read More >>",
+                    "url": "https://www.recregistryindia.nic.in/index.php/main/regen/index"
+                },
+                {
+                    "title": "Generate Electricity - How Solar Panels Work! - YouTube",
+                    "description": "How do Solar Panels work? Solar design software https://pvcase.com/engineeringmindset PVcase is a next-generation AutoCAD-based PV software focused on a...",
+                    "url": "https://www.youtube.com/watch?v=Yxt72aDjFgY"
+                },
+                {
+                    "title": "Map | Electricity Maps",
+                    "description": "Track real-time and historical electricity data worldwide — see production mix, CO2 emissions, prices, cross-border exports, and much more.",
+                    "url": "https://app.electricitymaps.com/"
+                },
+                {
+                    "title": "Renewable energy statistics 2025",
+                    "description": "Renewable energy statistics 2025 provides datasets on power-generation capacity for 2015-2024, actual power generation for 2015-2023 and renewable energy balances for over 150 countries and areas for 2022-2023.",
+                    "url": "https://www.irena.org/Publications/2025/Jul/Renewable-energy-statistics-2025"
+                }
+            ]
+        },
+        {
+            "claim": "29% decrease in specific energy consumption for the Auto Sector",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "No independent evidence provided to support the claim of a 29% decrease in specific energy consumption for the Auto Sector"
+            },
+            "evidence": []
+        },
+        {
+            "claim": "10% decrease in specific energy consumption for the Farm Equipment Sector",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not specifically mention a 10% decrease in specific energy consumption for the Farm Equipment Sector of Mahindra. It only mentions the use of MC Works64 for improvement in visibility, operability, reliability, and reduction of engineering man-hours, as well as visualization of energy, but does not provide quantitative data to support the claim."
+            },
+            "evidence": [
+                {
+                    "title": "MAHINDRA & MAHINDRA FES — Automotive, India | Our stories | MITSUBISHI ELECTRIC FA Global Website",
+                    "description": "... MC Works64 helps to fulfill a vast variety of needs related to monitoring and control, including improvement of visibility and operability, improvement in reliability, reduction of engineering man-hours, visualization of energy and preventive ...",
+                    "url": "https://www.mitsubishielectric.com/fa/our-stories/008/index.html"
+                }
+            ]
+        },
+        {
+            "claim": "120% increase in energy productivity for the Auto sector",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not directly support or mention the 120% increase in energy productivity for the Auto sector. The evidence primarily discusses market trends, competition, and reliability issues, but does not provide data or information related to energy productivity."
+            },
+            "evidence": [
+                {
+                    "title": "Mahindra Auto Is BOOSTING The Indian Economy - YouTube",
+                    "description": "Mar 18, 2025 ... Mahindra Auto Is BOOSTING The Indian Economy | Mahindra Overtakes Hyundai! A New Era for India's Auto Industry? In a shocking shift, ...",
+                    "url": "https://www.youtube.com/watch?v=fSGlFup07ys"
+                },
+                {
+                    "title": "Tata and Mahindra lead commercial vehicle market share - LinkedIn",
+                    "description": "Sep 13, 2025 ... The TATA & Mahindra's dominate the commercial sector too along with the ICE and EV segment! This tell us a very important aspect of the auto ...",
+                    "url": "https://www.linkedin.com/posts/suddipto_commercialvehicles-autoindustry-logistics-activity-7372681101431009280-PlhP"
+                },
+                {
+                    "title": "Mahindra's participative management approach raises safety concerns",
+                    "description": "Jan 5, 2026 ... Multiple car brands, including Mahindra, Tata, and Hyundai, have reliability issues, with owners experiencing problems like battery draining and ...",
+                    "url": "https://www.facebook.com/groups/470977670503012/posts/1958174221783342/"
+                }
+            ]
+        },
+        {
+            "claim": "94% increase in energy productivity for the Farm equipment sector",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence is an Instagram post about a new tractor model, which does not provide any data or information to support the claim of a 94% increase in energy productivity for the Farm equipment sector."
+            },
+            "evidence": [
+                {
+                    "title": "Mahindra Tractors on Instagram",
+                    "description": "Nov 7, 2025 ... Power, Performance & Productivity – All in One! Introducing the Mahindra NOVO 605 2WD Front-End Loader, built to handle tough farming and ...",
+                    "url": "https://www.instagram.com/reel/DQyYgOtCtl5/?hl=en"
+                }
+            ]
+        },
+        {
+            "claim": "Water positivity achieved for 3 consecutive years in the Auto and Farm Sector",
+            "category": "Water",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not specifically mention Mahindra achieving water positivity for 3 consecutive years in the Auto and Farm Sector. The evidence mostly discusses other companies' water conservation efforts and goals, with no direct relation to Mahindra's claim."
+            },
+            "evidence": [
+                {
+                    "title": "Water Neutrality & Water Positivity Certification | DQS India",
+                    "description": "Achieve Water Neutrality and Positivity with DQS India's expert certification services. Promote sustainable water practices, enhance your ESG profile, and contribute to environmental stewardship through globally recognized water management standards.",
+                    "url": "https://www.dqsglobal.com/en/certify/water-neutrality-water-positivity-certification"
+                },
+                {
+                    "title": "Turning the Tide: Vedanta Targets Net Water Positivity by 2030...",
+                    "description": "Bengaluru 24, 2025: As the world comes together to celebrate World Water Day, Vedanta Limited reinforces its commitment to water conservation with an ambitious goal of achieving Net Water Positivity by 2030.",
+                    "url": "https://newsmantra.in/turning-the-tide-vedanta-targets-net-water-positivity-by-2030-achieves-3-freshwater-reduction/"
+                },
+                {
+                    "title": "Water Has Memory! Dr. Masaru Emoto's Water Experiment! - YouTube",
+                    "description": "Masaru Emoto was a Japanese scientist, he studied the molecular structure of water. He wanted to know that does human thoughts and emotions have any impact o...",
+                    "url": "https://www.youtube.com/watch?v=5cyQVu_8EFc"
+                },
+                {
+                    "title": "Hindustan Zinc leads with 3.32x water positive status",
+                    "description": "On World Environment Day, Hindustan Zinc reached a major water milestone and announced ambitious sustainability goals. Operating in one of India’s driest regions, the company’s 3.32x water positivity shows strong leadership in eco-conscious mining and water conservation.",
+                    "url": "https://www.manufacturingtodayindia.com/hindustan-zinc-being-water-positive"
+                },
+                {
+                    "title": "BullForce leverages CSR to support Bengaluru's water positivity by...",
+                    "description": "Through the deployment of decentralized water treatment technologies, Boson Whitewater has enabled significant, measurable water savings, certified and issued as AquaKredits by AqVerium, the world’s first digital water bank.",
+                    "url": "https://www.isstories.com/2025/07/10/bullforce-leverages-csr-to-support-bengalurus-water-positivity-by-investing-in-aquakredits-earned-by-boson-whitewater/"
+                }
+            ]
+        },
+        {
+            "claim": "59 sites across the group are now certified 'Zero Waste to Landfill'",
+            "category": "Waste",
+            "verification": {
+                "status": "Partially Verified",
+                "confidence": "Medium",
+                "reason": "While there is evidence of Mahindra receiving 'Zero Waste to Landfill' certification from Intertek Sustainability in 2020, the claim of 59 sites being certified is not directly supported by the provided independent evidence. The certification services mentioned (Eurofins and The Carbon Trust) do not specifically confirm Mahindra's current zero waste to landfill status for all 59 sites."
+            },
+            "evidence": [
+                {
+                    "title": "Zero Waste to Landfill Certification Service - Eurofins",
+                    "description": "Jan 27, 2026 · Eurofins Assurance Zero Waste to Landfill Certification Service is designed for all types of manufacturing industry by our experts in field audit and environmental performance with particular knowledge in solid waste and hazardous waste areas.",
+                    "url": "https://www.eurofins.com/assurance/zero-waste-to-landfill-certification/"
+                },
+                {
+                    "title": "The Carbon Trust Standard for Zero Waste to Landfill",
+                    "description": "Start your Zero Waste to Landfill journey. Speak with one of our experts and start your journey to demonstrate leadership in waste management. Get in touch ...",
+                    "url": "https://www.carbontrust.com/what-we-do/net-zero-transition-planning-and-delivery/the-carbon-trust-standard-for-zero-waste-to-landfill"
+                },
+                {
+                    "title": "Mahindra | Facebook - Facebook",
+                    "description": "Feb 11, 2020 ... We are humbled and delighted to receive the prestigious 'Zero Waste to Landfill' certification by Intertek Sustainability for our corporate ...",
+                    "url": "https://www.facebook.com/photo.php?fbid=2785304691537321&set=a.643536274480091&id=100064711714703"
+                }
+            ]
+        },
+        {
+            "claim": "Commitment to supporting decarbonisation of industries",
+            "category": "Carbon",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not specifically mention Mahindra's commitment to supporting decarbonisation of industries. The articles discuss decarbonisation efforts in general, but do not provide direct evidence of Mahindra's involvement or commitment."
+            },
+            "evidence": [
+                {
+                    "title": "Decarbonisation Efforts: Growing interest of C&I consumers in the...",
+                    "description": "Going forward, the segment can provide the much-needed impetus to the country’s capacity augmentation and decarbonisation efforts, and accelerate the energy transition.",
+                    "url": "https://powerline.net.in/2022/08/02/decarbonisation-efforts-2/"
+                },
+                {
+                    "title": "Real estate prosperity only through radical decarbonisation | India",
+                    "description": "Real estate companies face challenges and encounter substantial obstacles to their decarbonisation efforts. These include perceived difficulty, high costs and a lack of centralised information across portfolios.",
+                    "url": "https://law.asia/real-estate-companies-decarbonisation-efforts/"
+                },
+                {
+                    "title": "Industry players, Xynteo come together for decarbonisation efforts",
+                    "description": "Our goal is to accelerate decarbonisation across the construction value chain towards net-zero emissions and encourage collaboration between industry players and the broader ecosystem to create measurable impact and support the country to meet its climate change goals.”",
+                    "url": "https://www.jll.com/en-in/newsroom/accelerate-india-decarbonisation-efforts"
+                },
+                {
+                    "title": "‘UK’s decarbonisation efforts stagnate’ - Energy News Beat",
+                    "description": "Specifically, the UK’s decarbonisation score positioned it as the fifth overall, behind France (71%), Germany (71%), the EU (68%) and Italy (64%). The post ‘UK’s decarbonisation efforts stagnate’ appeared first on Energy Live News.",
+                    "url": "https://energynewsbeat.co/uks-decarbonisation-efforts-stagnate/"
+                },
+                {
+                    "title": "PwC: How Construction is Helping in Decarbonisation Efforts",
+                    "description": "The report shows that sustainability and decarbonisation efforts remain resilient, with 69% on track to meet Scope 1 and 2 targets. Energy has become a key component of these strategies, as electricity prices increased by 7% to 25% and global industrial energy efficiency investment rose by...",
+                    "url": "https://constructiondigital.com/news/pwc-construction-helping-decarbonisation-efforts"
+                }
+            ]
+        },
+        {
+            "claim": "Goal to transition to green energy and promote circular economy principles",
+            "category": "Energy",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The provided independent evidence does not specifically mention Mahindra's goal to transition to green energy and promote circular economy principles. The evidence is general information about green energy, circular economy, and organizations related to these topics, but it does not directly verify Mahindra's claim."
+            },
+            "evidence": [
+                {
+                    "title": "Bureau of Energy Efficiency (BEE)",
+                    "description": "Apr 16, 2026 · The mission of Bureau of Energy Efficiency is to assist in developing policies and strategies with a thrust on self-regulation and market principles with the primary objective of reducing energy intensity of the Indian economy within the overall framework of the Energy Conservation Act, 2001.",
+                    "url": "https://beeindia.gov.in/"
+                },
+                {
+                    "title": "Nordic Solar - Investing in green energy, creating a clean and...",
+                    "description": "Invest in green energy and support clean technologies.Learn how to start investing in green technology and earn a steady income from renewable energy.",
+                    "url": "https://nordic-solar.tech/"
+                },
+                {
+                    "title": "The Circular Economy | Definition... | Ellen MacArthur Foundation",
+                    "description": "The circular economy is a system where materials never become waste and nature is regenerated. In a circular economy, products and materials are kept in circulation through processes like maintenance, reuse, refurbishment, remanufacture, recycling, and composting.",
+                    "url": "https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview"
+                },
+                {
+                    "title": "Circular economy | UN Trade and Development (UNCTAD)",
+                    "description": "UNCTAD’s work on the circular economy started in 2015 with a collaboration with the Ellen MacArthur Foundation on resource-circularity potentials in large economies like India and China.",
+                    "url": "https://unctad.org/topic/trade-and-environment/circular-economy"
+                },
+                {
+                    "title": "How To GET GREEN ENERGY CRYSTAL in FISCH! - YouTube",
+                    "description": "How To GET GREEN ENERGY CRYSTAL in FISCH! Fisch New Update!",
+                    "url": "https://www.youtube.com/watch?v=a1cvfO5NBro"
+                }
+            ]
+        },
+        {
+            "claim": "Launch of India's first Net Zero Energy Homes in Bengaluru",
+            "category": "Net Zero",
+            "verification": {
+                "status": "Insufficient Evidence",
+                "confidence": "Low",
+                "reason": "The independent evidence provided does not relate to Mahindra or the launch of net zero energy homes in Bengaluru, but rather a separate project in Wyoming, USA."
+            },
+            "evidence": [
+                {
+                    "title": "University students open doors to incredible net-zero energy model...",
+                    "description": "After researching energy-efficient homes throughout Wyoming, the research group designed and constructed the net-zero energy home, which is listed for $1.1 million. Homes that are net-zero energy do not rely on a traditional power grid to function.",
+                    "url": "https://www.thecooldown.com/green-tech/net-zero-energy-home-wyoming-students/"
+                }
+            ]
+        },
+        {
+            "claim": "Empowered ~2.32 lakh girl children through Project Nanhi Kali",
+            "category": "Social",
+            "verification": {
+                "status": "Partially Verified",
+                "confidence": "Medium",
+                "reason": "Independent evidence from multiple sources confirms the existence of Project Nanhi Kali and its association with Mahindra Group, but the exact number of girl children empowered (~2.32 lakh) is not explicitly verified through the provided evidence."
+            },
+            "evidence": [
+                {
+                    "title": "Donate, Sponsor, Support Girl Child Education, NGO for... | Nanhi Kali",
+                    "description": "Project Nanhi Kali is a participatory project wherein you can sponsor the education of an underprivileged girl child for a minimum period of one year. For just Rs. 6,000, you can provide her with the key to a brighter future.",
+                    "url": "https://www.nanhikali.org/"
+                },
+                {
+                    "title": "Power of ONE | Project Nanhi Kali | Mahindra Group | 2026 - YouTube",
+                    "description": "Support one girl, and the impact doesn’t stop there.It grows across families, communities, nations.For over 3 decades, Mahindra Group has powered Project Nan...",
+                    "url": "https://www.youtube.com/watch?v=Rhcd2x8UU98"
+                },
+                {
+                    "title": "Project Nanhi Kali: Educating Under-Privileged Girls Via Education in...",
+                    "description": "Who started Project Nanhi Kali? The project was started by Anand Mahindra, and is run by two organizationsProject Nanhi Kali offers a series of comprehensive, girl-centred supports to make education accessible, engaging, and sustainable for girls. The benefits we provide include",
+                    "url": "https://www.collegesearch.in/articles/project-nanhi-kali"
+                },
+                {
+                    "title": "Mahindra Group on Instagram: \"Support one girl, and the impact ...",
+                    "description": "Apr 22, 2026 ... Honoured to be associated with the Nanhi Kali project—spreading a strong and meaningful message for young girls. Grateful for this beautiful ...",
+                    "url": "https://www.instagram.com/reel/DXdfmTFCBX7/?hl=en"
+                },
+                {
+                    "title": "For over 30 years, Project Nanhi Kali has provided support to nearly ...",
+                    "description": "Apr 22, 2026 ... But our journey has never been about numbers alone. At Project Nanhi Kali, every girl matters and we believe we have achieved our impact when we ...",
+                    "url": "https://www.instagram.com/reel/DXbnKEukx0B/?hl=en"
+                }
+            ]
+        },
+        {
+            "claim": "Reached a total of 6.95L girls through Project Nanhi Kali to date",
+            "category": "Social",
+            "verification": {
+                "status": "Partially Verified",
+                "confidence": "Medium",
+                "reason": "Independent evidence from various sources confirms the existence and purpose of Project Nanhi Kali, and some sources mention the number of girls supported, but none of the provided evidence directly verifies the specific claim of reaching 6.95L girls to date."
+            },
+            "evidence": [
+                {
+                    "title": "Project Nanhi Kali:",
+                    "description": "Oct 3, 2024 · Jointly managed by the K. C. Mahindra Education Trust and Naandi Foundation at Project Nanhi Kali, we consider ourselves an organisation that works towards the betterment of the girl child to save her by giving her a fighting chance.",
+                    "url": "https://www.nanhikali.org/"
+                },
+                {
+                    "title": "Power of ONE | Project Nanhi Kali | Mahindra Group | 2026 - YouTube",
+                    "description": "Support one girl, and the impact doesn’t stop there.It grows across families, communities, nations.For over 3 decades, Mahindra Group has powered Project Nan...",
+                    "url": "https://www.youtube.com/watch?v=Rhcd2x8UU98"
+                },
+                {
+                    "title": "Project Nanhi Kali: Educating Under-Privileged Girls Via Education in...",
+                    "description": "Project Nanhi Kali, which means \"a little bud\" in Hindi, is a large Indian NGO that focuses on educating girls from disadvantaged situations throughout India. Started in 1996 by Anand Mahindra, the Chairman of the Mahindra Group...",
+                    "url": "https://www.collegesearch.in/articles/project-nanhi-kali"
+                },
+                {
+                    "title": "Public Charitable Trust, Girls Education Initiative – K. C ...",
+                    "description": "The K. C. Mahindra Education Trust is a Public Charitable Trust. Project Nanhi Kali, which supports girl child education, is one of the initiatives by the trust.",
+                    "url": "https://www.kcmet.org/legal-certificates.aspx"
+                },
+                {
+                    "title": "Reports on Educate 500 Girls in Tribal India - GlobalGiving",
+                    "description": "Project Nanhi Kali currently supports the education of over 100,000 underprivileged girl children across 10 states in India.",
+                    "url": "https://www.globalgiving.org/projects/educate-100-girls-in-backward-areas-of-india/updates/?subid=62175"
+                }
+            ]
+        }
+    ]
+}

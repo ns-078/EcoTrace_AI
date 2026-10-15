@@ -1,0 +1,81 @@
+{
+    "company": "Mahindra",
+    "verification_score": 15.38,
+    "greenwashing_score": 0.0,
+    "confidence_score": 30.77,
+    "esg_grade": "D",
+    "risk_level": "Low",
+    "summary": "Mahindra's sustainability report contains numerous claims that currently lack sufficient independent verification. This does not necessarily indicate greenwashing, but additional third-party evidence would improve credibility.",
+    "statistics": {
+        "total_claims": 13,
+        "verified": 0,
+        "partially_verified": 4,
+        "potential_greenwashing": 0,
+        "insufficient_evidence": 9
+    },
+    "category_analysis": {
+        "Energy": {
+            "claims": 7,
+            "verified": 0,
+            "partial": 1,
+            "greenwashing": 0,
+            "insufficient": 6,
+            "verification_percentage": 7.14
+        },
+        "Water": {
+            "claims": 1,
+            "verified": 0,
+            "partial": 0,
+            "greenwashing": 0,
+            "insufficient": 1,
+            "verification_percentage": 0.0
+        },
+        "Waste": {
+            "claims": 1,
+            "verified": 0,
+            "partial": 1,
+            "greenwashing": 0,
+            "insufficient": 0,
+            "verification_percentage": 50.0
+        },
+        "Carbon": {
+            "claims": 1,
+            "verified": 0,
+            "partial": 0,
+            "greenwashing": 0,
+            "insufficient": 1,
+            "verification_percentage": 0.0
+        },
+        "Net Zero": {
+            "claims": 1,
+            "verified": 0,
+            "partial": 0,
+            "greenwashing": 0,
+            "insufficient": 1,
+            "verification_percentage": 0.0
+        },
+        "Social": {
+            "claims": 2,
+            "verified": 0,
+            "partial": 2,
+            "greenwashing": 0,
+            "insufficient": 0,
+            "verification_percentage": 50.0
+        }
+    },
+    "strongest_category": "Waste",
+    "strengths": [],
+    "needs_further_verification": [
+        "6% increase in renewable electricity generation compared to last year",
+        "59 sites across the group are now certified 'Zero Waste to Landfill'",
+        "Empowered ~2.32 lakh girl children through Project Nanhi Kali",
+        "Reached a total of 6.95L girls through Project Nanhi Kali to date"
+    ],
+    "red_flags": [],
+    "recommendations": [
+        "Publish more independently audited sustainability metrics.",
+        "Provide third-party ESG assurance wherever possible.",
+        "Include measurable KPIs for renewable energy, emissions, water and waste.",
+        "Strengthen evidence supporting partially verified sustainability claims."
+    ]
+}

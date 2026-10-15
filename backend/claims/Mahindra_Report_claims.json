@@ -1,0 +1,80 @@
+[
+    {
+        "claim": "33% of M&M's electricity is from renewable sources",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "6% increase in renewable electricity generation compared to last year",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "29% decrease in specific energy consumption for the Auto Sector",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "10% decrease in specific energy consumption for the Farm Equipment Sector",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "120% increase in energy productivity for the Auto sector",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "94% increase in energy productivity for the Farm equipment sector",
+        "category": "Energy",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "Water positivity achieved for 3 consecutive years in the Auto and Farm Sector",
+        "category": "Water",
+        "type": "Achievement",
+        "confidence": "High"
+    },
+    {
+        "claim": "59 sites across the group are now certified 'Zero Waste to Landfill'",
+        "category": "Waste",
+        "type": "Metric",
+        "confidence": "High"
+    },
+    {
+        "claim": "Commitment to supporting decarbonisation of industries",
+        "category": "Carbon",
+        "type": "Commitment",
+        "confidence": "High"
+    },
+    {
+        "claim": "Goal to transition to green energy and promote circular economy principles",
+        "category": "Energy",
+        "type": "Goal",
+        "confidence": "High"
+    },
+    {
+        "claim": "Launch of India's first Net Zero Energy Homes in Bengaluru",
+        "category": "Net Zero",
+        "type": "Achievement",
+        "confidence": "High"
+    },
+    {
+        "claim": "Empowered ~2.32 lakh girl children through Project Nanhi Kali",
+        "category": "Social",
+        "type": "Achievement",
+        "confidence": "High"
+    },
+    {
+        "claim": "Reached a total of 6.95L girls through Project Nanhi Kali to date",
+        "category": "Social",
+        "type": "Metric",
+        "confidence": "High"
+    }
+]
